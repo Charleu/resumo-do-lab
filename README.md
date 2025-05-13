@@ -1,7 +1,3 @@
-Claro! Aqui está o mesmo conteúdo formatado em Markdown com emojis para deixar seu `README.md` mais visual e atrativo no GitHub:
-
----
-
 # ☁️ Resumo da Aula: Introdução à Computação em Nuvem com Microsoft Azure
 
 ## 1️⃣ O que é Computação em Nuvem?
