@@ -69,5 +69,5 @@
 
 ---
 
-Se quiser, posso incluir também um índice automático com links clicáveis para cada seção. Deseja isso?
+
 
